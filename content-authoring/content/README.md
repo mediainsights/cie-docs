@@ -18,6 +18,10 @@ Choose from a wide range of CivicTheme out-of-the-box components to build pages.
 
 The 'Event' content type allows you to add event pages that display event details, date, location and map.
 
+### Resource
+
+The 'Resource' content type is Automatically created when you add a Resource in the APO Site.
+
 ### Alert
 
 You can add an 'Alert' to any page or section of your site. A horizontal Alert bar will display at the top of the webpage above the Header.&#x20;

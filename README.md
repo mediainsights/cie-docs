@@ -79,19 +79,6 @@ Although CivicTheme originated as a **Drupal theme**, it is designed to be flexi
 
 ***
 
-### Demo sites
-
-To explore CivicTheme in action, you can view a variety of demo sites tailored to different industries:
-
-* [Default CivicTheme build](https://default.civictheme.io/) – Latest stable build. Use the "generated content" menu item to explore multiple component variants.
-* [Government demo](https://government.civictheme.io/) – CivicTheme adapted for government sector content.
-* [Higher Education demo](https://higher-education-university.civictheme.io/) – Example of CivicTheme tailored for higher education.
-* [Corporate demo](https://corporate.civictheme.io/) – CivicTheme for corporate industry content.
-
-
-
-***
-
 ### Resources
 
 * [CivicTheme official site](https://www.civictheme.io/)
@@ -106,5 +93,5 @@ To explore CivicTheme in action, you can view a variety of demo sites tailored t
 
 ***
 
-**CivicTheme** continues to evolve as an essential tool for delivering consistent, accessible, and modern digital experiences, driven by its community and contributions. To be part of the evolving journey of CivicTheme's vision, check out our [contribution documentation](contributing/contribution-model.md).
+**CivicTheme** continues to evolve as an essential tool for delivering consistent, accessible, and modern digital experiences, driven by its community and contributions. To be part of the evolving journey of CivicTheme's vision, check out our [Content Authoring Guide](content-authoring/introduction.md).
 
